@@ -1,0 +1,41 @@
+# IDE and OS specific
+.idea/
+.vscode/
+*.DS_Store
+
+# Obsidian vault settings
+.obsidian/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data and logs
+dataSet/
+logs/
+logs_new/
+logs_xpu
+logs_cpu
+
+modelsave_cpu/
+modelsave_xpu/
+
+*.zip
+*.rar
+*.7z
+
+# Large files
+*.pdf
+*.xmind
+
+【私密】/
+【我的项目】/
